@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 
-1. [Linux]()
-2. [Git]()
-3. [Javascript]()
-4. [Project]()
+1. [Linux](https://github.com/shubhamdsm/missingskill-learning/blob/main/linux.md)
+2. [Git](https://github.com/shubhamdsm/missingskill-learning/blob/main/git.md)
+3. [Javascript](https://github.com/shubhamdsm/missingskill-learning/blob/main/javascript.md)
+4. [Project](https://github.com/shubhamdsm/missingskill-learning/blob/main/project.md)
