@@ -1,5 +1,7 @@
 ## **MISSING LEARNING PREP REPORT**
 
+> Enjoyed my grind preparation. The sessions were very insightful and I gain so much knowledge from them.
+
 ## Table of Contents:
 
 1. [Linux](https://github.com/shubhamdsm/missingskill-learning/blob/main/linux.md)
